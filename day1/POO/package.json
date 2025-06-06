@@ -1,10 +1,9 @@
 {
     "name": "animal-shelter",
     "scripts": {
-      "start": "tsc && node dist/index.js"
+        "start": "tsc && node dist/index.js"
     },
     "devDependencies": {
-      "typescript": "^5.0.0"
+        "typescript": "^5.8.3"
     }
 }
-  
